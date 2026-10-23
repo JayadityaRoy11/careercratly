@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "backend_developer",
+    "name": "Backend Developer",
+    "required_skills": ["Python", "SQL", "REST APIs", "Git", "PostgreSQL"],
+    "preferred_skills": ["FastAPI", "Docker", "Redis", "Linux", "System Design"],
+    "optional_skills": ["Kubernetes", "AWS", "MongoDB", "CI/CD"],
+    "recommended_certifications": ["AWS Certified Developer – Associate"],
+    "recommended_project_themes": ["REST API with FastAPI and PostgreSQL", "Background jobs with Redis"]
+  },
+  {
+    "slug": "python_developer",
+    "name": "Python Developer",
+    "required_skills": ["Python", "Git", "SQL", "REST APIs"],
+    "preferred_skills": ["Django", "Flask", "FastAPI", "Pandas", "pytest"],
+    "optional_skills": ["Docker", "AWS", "Celery"],
+    "recommended_certifications": ["PCAP – Certified Associate in Python Programming"],
+    "recommended_project_themes": ["CLI data pipeline", "Django REST service"]
+  },
+  {
+    "slug": "software_engineer",
+    "name": "Software Engineer",
+    "required_skills": ["Python", "Git", "SQL", "REST APIs", "Linux"],
+    "preferred_skills": ["Java", "JavaScript", "Docker", "System Design", "Unit Testing"],
+    "optional_skills": ["Kubernetes", "AWS", "CI/CD"],
+    "recommended_certifications": ["Google Associate Cloud Engineer"],
+    "recommended_project_themes": ["Full feature service with tests and CI"]
+  },
+  {
+    "slug": "full_stack_developer",
+    "name": "Full Stack Developer",
+    "required_skills": ["JavaScript", "HTML", "CSS", "SQL", "Git", "REST APIs"],
+    "preferred_skills": ["React", "TypeScript", "Node.js", "PostgreSQL", "Docker"],
+    "optional_skills": ["Next.js", "AWS", "GraphQL"],
+    "recommended_certifications": ["Meta Front-End Developer Certificate"],
+    "recommended_project_themes": ["React + FastAPI full-stack app"]
+  },
+  {
+    "slug": "data_scientist",
+    "name": "Data Scientist",
+    "required_skills": ["Python", "SQL", "Machine Learning", "Pandas", "NumPy", "Statistics"],
+    "preferred_skills": ["scikit-learn", "Jupyter", "Feature Engineering", "Matplotlib"],
+    "optional_skills": ["PyTorch", "TensorFlow", "Spark"],
+    "recommended_certifications": ["IBM Data Science Professional Certificate"],
+    "recommended_project_themes": ["End-to-end ML classification project", "Feature store experiment"]
+  },
+  {
+    "slug": "data_analyst",
+    "name": "Data Analyst",
+    "required_skills": ["SQL", "Excel", "Data Visualization", "Statistics"],
+    "preferred_skills": ["Tableau", "Power BI", "Python", "Pandas"],
+    "optional_skills": ["Looker", "A/B Testing", "ETL"],
+    "recommended_certifications": ["Google Data Analytics Professional Certificate"],
+    "recommended_project_themes": ["Dashboard from public dataset", "SQL case study"]
+  },
+  {
+    "slug": "ai_engineer",
+    "name": "AI Engineer",
+    "required_skills": ["Python", "Machine Learning", "LLMs", "Git"],
+    "preferred_skills": ["PyTorch", "LangChain", "RAG", "Docker", "FastAPI"],
+    "optional_skills": ["LangGraph", "Vector Databases", "AWS", "Hugging Face"],
+    "recommended_certifications": ["DeepLearning.AI Generative AI"],
+    "recommended_project_themes": ["RAG chatbot over a document corpus", "LLM evaluation harness"]
+  },
+  {
+    "slug": "ml_engineer",
+    "name": "Machine Learning Engineer",
+    "required_skills": ["Python", "Machine Learning", "scikit-learn", "Git", "SQL"],
+    "preferred_skills": ["PyTorch", "Docker", "MLOps", "Feature Engineering"],
+    "optional_skills": ["Kubernetes", "Spark", "MLflow", "AWS"],
+    "recommended_certifications": ["TensorFlow Developer Certificate"],
+    "recommended_project_themes": ["Model training pipeline with MLflow", "Batch inference service"]
+  },
+  {
+    "slug": "cloud_engineer",
+    "name": "Cloud Engineer",
+    "required_skills": ["Linux", "Git", "Docker", "AWS", "Networking"],
+    "preferred_skills": ["Kubernetes", "Terraform", "CI/CD", "Python"],
+    "optional_skills": ["GCP", "Azure", "Prometheus"],
+    "recommended_certifications": ["AWS Certified Solutions Architect – Associate"],
+    "recommended_project_themes": ["IaC with Terraform", "Kubernetes deployment"]
+  },
+  {
+    "slug": "business_analyst",
+    "name": "Business Analyst",
+    "required_skills": ["Excel", "SQL", "Data Visualization", "Statistics"],
+    "preferred_skills": ["Power BI", "Tableau", "Agile", "Jira"],
+    "optional_skills": ["Python", "A/B Testing", "Looker"],
+    "recommended_certifications": ["IIBA Entry Certificate in Business Analysis"],
+    "recommended_project_themes": ["Requirements + dashboard for a mock product", "Process metrics case study"]
+  }
+]

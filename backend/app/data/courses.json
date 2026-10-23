@@ -1,0 +1,308 @@
+[
+  {
+    "id": "course-python-coursera",
+    "title": "Python for Everybody",
+    "provider": "Coursera",
+    "skill_tag": "Python",
+    "level": "beginner",
+    "url": "https://www.coursera.org/specializations/python",
+    "placeholder": false
+  },
+  {
+    "id": "course-python-kaggle",
+    "title": "Python",
+    "provider": "Kaggle Learn",
+    "skill_tag": "Python",
+    "level": "beginner",
+    "url": "https://www.kaggle.com/learn/python",
+    "placeholder": false
+  },
+  {
+    "id": "course-sql-kaggle",
+    "title": "Intro to SQL",
+    "provider": "Kaggle Learn",
+    "skill_tag": "SQL",
+    "level": "beginner",
+    "url": "https://www.kaggle.com/learn/intro-to-sql",
+    "placeholder": false
+  },
+  {
+    "id": "course-sql-coursera",
+    "title": "SQL for Data Science",
+    "provider": "Coursera",
+    "skill_tag": "SQL",
+    "level": "beginner",
+    "url": "https://www.coursera.org/learn/sql-for-data-science",
+    "placeholder": false
+  },
+  {
+    "id": "course-ml-coursera",
+    "title": "Machine Learning",
+    "provider": "Coursera",
+    "skill_tag": "Machine Learning",
+    "level": "intermediate",
+    "url": "https://www.coursera.org/learn/machine-learning",
+    "placeholder": false
+  },
+  {
+    "id": "course-ml-kaggle",
+    "title": "Intro to Machine Learning",
+    "provider": "Kaggle Learn",
+    "skill_tag": "Machine Learning",
+    "level": "beginner",
+    "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+    "placeholder": false
+  },
+  {
+    "id": "course-dl-coursera",
+    "title": "Deep Learning Specialization",
+    "provider": "Coursera",
+    "skill_tag": "Deep Learning",
+    "level": "intermediate",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "placeholder": false
+  },
+  {
+    "id": "course-pandas-kaggle",
+    "title": "Pandas",
+    "provider": "Kaggle Learn",
+    "skill_tag": "Pandas",
+    "level": "beginner",
+    "url": "https://www.kaggle.com/learn/pandas",
+    "placeholder": false
+  },
+  {
+    "id": "course-hf-nlp",
+    "title": "NLP Course",
+    "provider": "Hugging Face",
+    "skill_tag": "NLP",
+    "level": "intermediate",
+    "url": "https://huggingface.co/learn/nlp-course",
+    "placeholder": false
+  },
+  {
+    "id": "course-prompt-dla",
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "provider": "DeepLearning.AI",
+    "skill_tag": "Prompt Engineering",
+    "level": "beginner",
+    "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+    "placeholder": false
+  },
+  {
+    "id": "course-langchain-dla",
+    "title": "LangChain for LLM Application Development",
+    "provider": "DeepLearning.AI",
+    "skill_tag": "LangChain",
+    "level": "intermediate",
+    "url": "https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/",
+    "placeholder": false
+  },
+  {
+    "id": "course-rag-dla",
+    "title": "Building and Evaluating Advanced RAG",
+    "provider": "DeepLearning.AI",
+    "skill_tag": "RAG",
+    "level": "intermediate",
+    "url": "https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/",
+    "placeholder": false
+  },
+  {
+    "id": "course-docker-ms",
+    "title": "Introduction to Docker",
+    "provider": "Microsoft Learn",
+    "skill_tag": "Docker",
+    "level": "beginner",
+    "url": "https://learn.microsoft.com/en-us/training/modules/intro-to-docker-containers/",
+    "placeholder": false
+  },
+  {
+    "id": "course-k8s-ms",
+    "title": "Introduction to Kubernetes",
+    "provider": "Microsoft Learn",
+    "skill_tag": "Kubernetes",
+    "level": "beginner",
+    "url": "https://learn.microsoft.com/en-us/training/modules/intro-to-kubernetes/",
+    "placeholder": false
+  },
+  {
+    "id": "course-aws-ccp",
+    "title": "AWS Cloud Practitioner Essentials",
+    "provider": "AWS Skill Builder / Coursera",
+    "skill_tag": "AWS",
+    "level": "beginner",
+    "url": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials",
+    "placeholder": false
+  },
+  {
+    "id": "course-aws-skillbuilder",
+    "title": "AWS Skill Builder (catalog)",
+    "provider": "AWS Skill Builder",
+    "skill_tag": "AWS",
+    "level": "beginner",
+    "url": "https://skillbuilder.aws/",
+    "placeholder": false
+  },
+  {
+    "id": "course-gcp-boost",
+    "title": "Google Cloud Skills Boost",
+    "provider": "Google Cloud Skills",
+    "skill_tag": "GCP",
+    "level": "beginner",
+    "url": "https://www.cloudskillsboost.google/",
+    "placeholder": false
+  },
+  {
+    "id": "course-azure-ms",
+    "title": "Azure Fundamentals",
+    "provider": "Microsoft Learn",
+    "skill_tag": "Azure",
+    "level": "beginner",
+    "url": "https://learn.microsoft.com/en-us/training/azure/",
+    "placeholder": false
+  },
+  {
+    "id": "course-powerbi-ms",
+    "title": "Get started with Power BI",
+    "provider": "Microsoft Learn",
+    "skill_tag": "Power BI",
+    "level": "beginner",
+    "url": "https://learn.microsoft.com/en-us/training/paths/power-bi-beginners/",
+    "placeholder": false
+  },
+  {
+    "id": "course-react-meta",
+    "title": "Meta React basics (Coursera)",
+    "provider": "Coursera",
+    "skill_tag": "React",
+    "level": "beginner",
+    "url": "https://www.coursera.org/learn/react-basics",
+    "placeholder": false
+  },
+  {
+    "id": "course-js-fcc",
+    "title": "JavaScript Algorithms and Data Structures",
+    "provider": "freeCodeCamp",
+    "skill_tag": "JavaScript",
+    "level": "beginner",
+    "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+    "placeholder": false
+  },
+  {
+    "id": "course-git-coursera",
+    "title": "Version Control with Git",
+    "provider": "Coursera",
+    "skill_tag": "Git",
+    "level": "beginner",
+    "url": "https://www.coursera.org/learn/version-control-with-git",
+    "placeholder": false
+  },
+  {
+    "id": "course-fastapi-landing",
+    "title": "FastAPI documentation (official tutorial)",
+    "provider": "FastAPI",
+    "skill_tag": "FastAPI",
+    "level": "beginner",
+    "url": "https://fastapi.tiangolo.com/tutorial/",
+    "placeholder": false
+  },
+  {
+    "id": "course-postgres-official",
+    "title": "PostgreSQL documentation",
+    "provider": "PostgreSQL",
+    "skill_tag": "PostgreSQL",
+    "level": "beginner",
+    "url": "https://www.postgresql.org/docs/current/tutorial.html",
+    "placeholder": false
+  },
+  {
+    "id": "course-sklearn-docs",
+    "title": "scikit-learn user guide",
+    "provider": "scikit-learn",
+    "skill_tag": "scikit-learn",
+    "level": "intermediate",
+    "url": "https://scikit-learn.org/stable/user_guide.html",
+    "placeholder": false
+  },
+  {
+    "id": "course-pytorch",
+    "title": "PyTorch tutorials",
+    "provider": "PyTorch",
+    "skill_tag": "PyTorch",
+    "level": "intermediate",
+    "url": "https://pytorch.org/tutorials/",
+    "placeholder": false
+  },
+  {
+    "id": "course-tf",
+    "title": "TensorFlow tutorials",
+    "provider": "TensorFlow",
+    "skill_tag": "TensorFlow",
+    "level": "intermediate",
+    "url": "https://www.tensorflow.org/tutorials",
+    "placeholder": false
+  },
+  {
+    "id": "course-ibm-skillsbuild",
+    "title": "IBM SkillsBuild",
+    "provider": "IBM SkillsBuild",
+    "skill_tag": "Machine Learning",
+    "level": "beginner",
+    "url": "https://skillsbuild.org/",
+    "placeholder": false
+  },
+  {
+    "id": "course-edx-cs50p",
+    "title": "CS50's Introduction to Programming with Python",
+    "provider": "edX",
+    "skill_tag": "Python",
+    "level": "beginner",
+    "url": "https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python",
+    "placeholder": false
+  },
+  {
+    "id": "course-udemy-catalog",
+    "title": "Udemy development catalog",
+    "provider": "Udemy",
+    "skill_tag": "JavaScript",
+    "level": "beginner",
+    "url": "https://www.udemy.com/courses/development/",
+    "placeholder": false
+  },
+  {
+    "id": "course-linux-kodekloud-ms",
+    "title": "Linux fundamentals (Microsoft Learn)",
+    "provider": "Microsoft Learn",
+    "skill_tag": "Linux",
+    "level": "beginner",
+    "url": "https://learn.microsoft.com/en-us/training/modules/explore-azure-linux-virtual-machines/",
+    "placeholder": false
+  },
+  {
+    "id": "course-excel-coursera",
+    "title": "Excel Skills for Business",
+    "provider": "Coursera",
+    "skill_tag": "Excel",
+    "level": "beginner",
+    "url": "https://www.coursera.org/specializations/excel",
+    "placeholder": false
+  },
+  {
+    "id": "course-tableau-official",
+    "title": "Tableau learning",
+    "provider": "Tableau",
+    "skill_tag": "Tableau",
+    "level": "beginner",
+    "url": "https://www.tableau.com/learn",
+    "placeholder": false
+  },
+  {
+    "id": "course-rest-mdn",
+    "title": "MDN: HTTP and APIs",
+    "provider": "MDN",
+    "skill_tag": "REST APIs",
+    "level": "beginner",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+    "placeholder": false
+  }
+]

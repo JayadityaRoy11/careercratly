@@ -1,0 +1,140 @@
+{
+  "RAG chatbot over a document corpus": [
+    {
+      "title": "Papers with Code: retrieval-augmented generation",
+      "type": "research",
+      "source": "Papers with Code",
+      "url": "https://paperswithcode.com/task/retrieval-augmented-generation"
+    },
+    {
+      "title": "arXiv search: retrieval-augmented generation",
+      "type": "research",
+      "source": "arXiv",
+      "url": "https://arxiv.org/search/?query=retrieval-augmented+generation&searchtype=all"
+    },
+    {
+      "title": "LangChain RAG tutorial",
+      "type": "tutorial",
+      "source": "LangChain",
+      "url": "https://python.langchain.com/docs/tutorials/rag/"
+    },
+    {
+      "title": "Awesome RAG repositories",
+      "type": "github",
+      "source": "GitHub",
+      "url": "https://github.com/topics/retrieval-augmented-generation"
+    }
+  ],
+  "LLM evaluation harness": [
+    {
+      "title": "arXiv search: LLM evaluation",
+      "type": "research",
+      "source": "arXiv",
+      "url": "https://arxiv.org/search/?query=large+language+model+evaluation&searchtype=all"
+    },
+    {
+      "title": "Papers with Code: language model evaluation",
+      "type": "research",
+      "source": "Papers with Code",
+      "url": "https://paperswithcode.com/task/language-modelling"
+    },
+    {
+      "title": "EleutherAI lm-evaluation-harness",
+      "type": "github",
+      "source": "GitHub",
+      "url": "https://github.com/EleutherAI/lm-evaluation-harness"
+    }
+  ],
+  "REST API with FastAPI and PostgreSQL": [
+    {
+      "title": "FastAPI SQL databases",
+      "type": "tutorial",
+      "source": "FastAPI",
+      "url": "https://fastapi.tiangolo.com/tutorial/sql-databases/"
+    },
+    {
+      "title": "GitHub topic: fastapi",
+      "type": "github",
+      "source": "GitHub",
+      "url": "https://github.com/topics/fastapi"
+    },
+    {
+      "title": "PostgreSQL tutorial",
+      "type": "tutorial",
+      "source": "PostgreSQL",
+      "url": "https://www.postgresql.org/docs/current/tutorial.html"
+    }
+  ],
+  "End-to-end ML classification project": [
+    {
+      "title": "Kaggle: Titanic tutorial competition",
+      "type": "dataset",
+      "source": "Kaggle",
+      "url": "https://www.kaggle.com/c/titanic"
+    },
+    {
+      "title": "scikit-learn classification tutorial",
+      "type": "tutorial",
+      "source": "scikit-learn",
+      "url": "https://scikit-learn.org/stable/tutorial/basic/tutorial.html"
+    },
+    {
+      "title": "Papers with Code: image classification",
+      "type": "research",
+      "source": "Papers with Code",
+      "url": "https://paperswithcode.com/task/image-classification"
+    }
+  ],
+  "Dashboard from public dataset": [
+    {
+      "title": "Kaggle datasets",
+      "type": "dataset",
+      "source": "Kaggle",
+      "url": "https://www.kaggle.com/datasets"
+    },
+    {
+      "title": "Google Data Analytics (Coursera landing)",
+      "type": "tutorial",
+      "source": "Coursera",
+      "url": "https://www.coursera.org/professional-certificates/google-data-analytics"
+    },
+    {
+      "title": "GitHub topic: data-visualization",
+      "type": "github",
+      "source": "GitHub",
+      "url": "https://github.com/topics/data-visualization"
+    }
+  ],
+  "default": [
+    {
+      "title": "Google Scholar",
+      "type": "research",
+      "source": "Google Scholar",
+      "url": "https://scholar.google.com/"
+    },
+    {
+      "title": "arXiv",
+      "type": "research",
+      "source": "arXiv",
+      "url": "https://arxiv.org/"
+    },
+    {
+      "title": "Papers with Code",
+      "type": "research",
+      "source": "Papers with Code",
+      "url": "https://paperswithcode.com/"
+    },
+    {
+      "title": "Kaggle",
+      "type": "dataset",
+      "source": "Kaggle",
+      "url": "https://www.kaggle.com/"
+    },
+    {
+      "title": "GitHub topics",
+      "type": "github",
+      "source": "GitHub",
+      "url": "https://github.com/topics"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Backend Developer": {
+    "easy": [
+      {
+        "id": "be-e1",
+        "question": "What is the difference between PUT and PATCH in a REST API?",
+        "keywords": ["put", "patch", "partial", "idempotent", "resource"]
+      },
+      {
+        "id": "be-e2",
+        "question": "How would you store passwords for users of an API?",
+        "keywords": ["hash", "salt", "bcrypt", "never store plaintext"]
+      }
+    ],
+    "medium": [
+      {
+        "id": "be-m1",
+        "question": "How do you design pagination for a FastAPI list endpoint backed by PostgreSQL?",
+        "keywords": ["limit", "offset", "cursor", "index", "total count"]
+      },
+      {
+        "id": "be-m2",
+        "question": "Explain how you would use Redis with a Python API.",
+        "keywords": ["cache", "ttl", "session", "queue", "redis"]
+      }
+    ],
+    "hard": [
+      {
+        "id": "be-h1",
+        "question": "Walk through diagnosing a slow SQL query in production.",
+        "keywords": ["explain", "index", "n+1", "slow query", "connection pool"]
+      }
+    ]
+  },
+  "Data Scientist": {
+    "easy": [
+      {
+        "id": "ds-e1",
+        "question": "What is the difference between supervised and unsupervised learning?",
+        "keywords": ["label", "classification", "clustering", "regression"]
+      }
+    ],
+    "medium": [
+      {
+        "id": "ds-m1",
+        "question": "How do you detect and handle data leakage?",
+        "keywords": ["train test split", "target", "feature", "pipeline", "cross-validation"]
+      }
+    ],
+    "hard": [
+      {
+        "id": "ds-h1",
+        "question": "How would you evaluate a classifier on an imbalanced dataset?",
+        "keywords": ["precision", "recall", "f1", "auc", "class weight"]
+      }
+    ]
+  },
+  "AI Engineer": {
+    "easy": [
+      {
+        "id": "ai-e1",
+        "question": "What is retrieval-augmented generation (RAG)?",
+        "keywords": ["retrieve", "documents", "embedding", "context", "llm"]
+      }
+    ],
+    "medium": [
+      {
+        "id": "ai-m1",
+        "question": "How would you reduce hallucinations in an LLM-backed product?",
+        "keywords": ["grounding", "rag", "citations", "evaluation", "prompt"]
+      }
+    ],
+    "hard": [
+      {
+        "id": "ai-h1",
+        "question": "Design an evaluation set for a customer-support RAG system.",
+        "keywords": ["gold answers", "faithfulness", "latency", "retrieval recall", "human review"]
+      }
+    ]
+  },
+  "Data Analyst": {
+    "easy": [
+      {
+        "id": "da-e1",
+        "question": "What is the difference between INNER JOIN and LEFT JOIN?",
+        "keywords": ["matching", "null", "left", "inner", "rows"]
+      }
+    ],
+    "medium": [
+      {
+        "id": "da-m1",
+        "question": "How would you define a conversion funnel in SQL?",
+        "keywords": ["cohort", "window", "count distinct", "funnel", "timestamp"]
+      }
+    ],
+    "hard": [
+      {
+        "id": "da-h1",
+        "question": "How do you decide if an A/B test result is trustworthy?",
+        "keywords": ["sample size", "significance", "novelty", "srm", "confidence"]
+      }
+    ]
+  },
+  "default": {
+    "easy": [
+      {
+        "id": "gen-e1",
+        "question": "Tell me about a project you are proud of and your role in it.",
+        "keywords": ["project", "impact", "stack", "owned", "result"]
+      }
+    ],
+    "medium": [
+      {
+        "id": "gen-m1",
+        "question": "How do you debug a production issue under time pressure?",
+        "keywords": ["logs", "reproduce", "rollback", "metrics", "communication"]
+      }
+    ],
+    "hard": [
+      {
+        "id": "gen-h1",
+        "question": "Describe a trade-off you made between speed of delivery and code quality.",
+        "keywords": ["trade-off", "debt", "tests", "deadline", "refactor"]
+      }
+    ]
+  }
+}

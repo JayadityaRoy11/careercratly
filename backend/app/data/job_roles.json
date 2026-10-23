@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "ai_engineer",
+    "name": "AI Engineer",
+    "skills": [
+      {"name": "Python", "weight": 1.0},
+      {"name": "Machine Learning", "weight": 1.0},
+      {"name": "Deep Learning", "weight": 0.85},
+      {"name": "PyTorch", "weight": 0.9},
+      {"name": "TensorFlow", "weight": 0.7},
+      {"name": "NLP", "weight": 0.8},
+      {"name": "LLMs", "weight": 0.95},
+      {"name": "LangChain", "weight": 0.7},
+      {"name": "RAG", "weight": 0.75},
+      {"name": "Hugging Face", "weight": 0.7},
+      {"name": "Prompt Engineering", "weight": 0.7},
+      {"name": "Vector Databases", "weight": 0.6},
+      {"name": "FastAPI", "weight": 0.5},
+      {"name": "Docker", "weight": 0.55},
+      {"name": "SQL", "weight": 0.45},
+      {"name": "Git", "weight": 0.4},
+      {"name": "AWS", "weight": 0.45}
+    ]
+  },
+  {
+    "slug": "ml_engineer",
+    "name": "ML Engineer",
+    "skills": [
+      {"name": "Python", "weight": 1.0},
+      {"name": "Machine Learning", "weight": 1.0},
+      {"name": "PyTorch", "weight": 0.85},
+      {"name": "TensorFlow", "weight": 0.75},
+      {"name": "scikit-learn", "weight": 0.7},
+      {"name": "Feature Engineering", "weight": 0.75},
+      {"name": "MLflow", "weight": 0.7},
+      {"name": "MLOps", "weight": 0.8},
+      {"name": "Docker", "weight": 0.8},
+      {"name": "Kubernetes", "weight": 0.6},
+      {"name": "SQL", "weight": 0.5},
+      {"name": "Spark", "weight": 0.55},
+      {"name": "AWS", "weight": 0.55},
+      {"name": "CI/CD", "weight": 0.5}
+    ]
+  },
+  {
+    "slug": "data_analyst",
+    "name": "Data Analyst",
+    "skills": [
+      {"name": "SQL", "weight": 1.0},
+      {"name": "Excel", "weight": 0.9},
+      {"name": "Tableau", "weight": 0.8},
+      {"name": "Power BI", "weight": 0.75},
+      {"name": "Python", "weight": 0.75},
+      {"name": "Pandas", "weight": 0.7},
+      {"name": "Statistics", "weight": 0.8},
+      {"name": "Data Visualization", "weight": 0.85},
+      {"name": "A/B Testing", "weight": 0.55},
+      {"name": "Looker", "weight": 0.45},
+      {"name": "Data Modeling", "weight": 0.5},
+      {"name": "ETL", "weight": 0.4}
+    ]
+  },
+  {
+    "slug": "data_scientist",
+    "name": "Data Scientist",
+    "skills": [
+      {"name": "Python", "weight": 1.0},
+      {"name": "SQL", "weight": 0.8},
+      {"name": "Machine Learning", "weight": 1.0},
+      {"name": "Pandas", "weight": 0.9},
+      {"name": "NumPy", "weight": 0.8},
+      {"name": "scikit-learn", "weight": 0.9},
+      {"name": "Statistics", "weight": 0.9},
+      {"name": "Feature Engineering", "weight": 0.75},
+      {"name": "PyTorch", "weight": 0.55},
+      {"name": "TensorFlow", "weight": 0.5},
+      {"name": "Matplotlib", "weight": 0.45},
+      {"name": "Jupyter", "weight": 0.5},
+      {"name": "A/B Testing", "weight": 0.5},
+      {"name": "Spark", "weight": 0.4}
+    ]
+  },
+  {
+    "slug": "backend_developer",
+    "name": "Backend Developer",
+    "skills": [
+      {"name": "SQL", "weight": 1.0},
+      {"name": "PostgreSQL", "weight": 0.85},
+      {"name": "REST", "weight": 1.0},
+      {"name": "Git", "weight": 0.8},
+      {"name": "Docker", "weight": 0.8},
+      {"name": "Linux", "weight": 0.7},
+      {"name": "Python", "weight": 0.7},
+      {"name": "Java", "weight": 0.55},
+      {"name": "FastAPI", "weight": 0.55},
+      {"name": "Django", "weight": 0.5},
+      {"name": "Spring Boot", "weight": 0.5},
+      {"name": "Redis", "weight": 0.6},
+      {"name": "Microservices", "weight": 0.7},
+      {"name": "System Design", "weight": 0.7},
+      {"name": "CI/CD", "weight": 0.6},
+      {"name": "AWS", "weight": 0.55},
+      {"name": "Kubernetes", "weight": 0.45},
+      {"name": "MongoDB", "weight": 0.4}
+    ]
+  },
+  {
+    "slug": "frontend_developer",
+    "name": "Frontend Developer",
+    "skills": [
+      {"name": "JavaScript", "weight": 1.0},
+      {"name": "TypeScript", "weight": 0.9},
+      {"name": "HTML", "weight": 1.0},
+      {"name": "CSS", "weight": 1.0},
+      {"name": "React", "weight": 0.9},
+      {"name": "Next.js", "weight": 0.6},
+      {"name": "Redux", "weight": 0.5},
+      {"name": "Tailwind CSS", "weight": 0.5},
+      {"name": "REST", "weight": 0.65},
+      {"name": "Git", "weight": 0.7},
+      {"name": "Jest", "weight": 0.5},
+      {"name": "Webpack", "weight": 0.35},
+      {"name": "Accessibility", "weight": 0.45},
+      {"name": "Figma", "weight": 0.4}
+    ]
+  },
+  {
+    "slug": "fullstack_developer",
+    "name": "Full Stack Developer",
+    "skills": [
+      {"name": "JavaScript", "weight": 0.9},
+      {"name": "TypeScript", "weight": 0.8},
+      {"name": "React", "weight": 0.8},
+      {"name": "Node.js", "weight": 0.8},
+      {"name": "HTML", "weight": 0.65},
+      {"name": "CSS", "weight": 0.65},
+      {"name": "SQL", "weight": 0.8},
+      {"name": "PostgreSQL", "weight": 0.7},
+      {"name": "REST", "weight": 0.85},
+      {"name": "Git", "weight": 0.75},
+      {"name": "Docker", "weight": 0.55},
+      {"name": "Python", "weight": 0.45},
+      {"name": "AWS", "weight": 0.45}
+    ]
+  },
+  {
+    "slug": "devops_engineer",
+    "name": "DevOps Engineer",
+    "skills": [
+      {"name": "Linux", "weight": 1.0},
+      {"name": "Docker", "weight": 1.0},
+      {"name": "Kubernetes", "weight": 0.95},
+      {"name": "CI/CD", "weight": 0.9},
+      {"name": "Terraform", "weight": 0.85},
+      {"name": "AWS", "weight": 0.85},
+      {"name": "Git", "weight": 0.75},
+      {"name": "Bash", "weight": 0.7},
+      {"name": "Python", "weight": 0.55},
+      {"name": "Ansible", "weight": 0.6},
+      {"name": "Jenkins", "weight": 0.55},
+      {"name": "Prometheus", "weight": 0.5},
+      {"name": "Grafana", "weight": 0.5},
+      {"name": "Helm", "weight": 0.5},
+      {"name": "Networking", "weight": 0.5}
+    ]
+  }
+]
